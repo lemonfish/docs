@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [쿠버네티스 삽질 노트](README.md)
 
